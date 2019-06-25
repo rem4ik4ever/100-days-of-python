@@ -3,6 +3,7 @@
 # Ignore Everything
 *
 
+*/__pycache__
 # But not .py
 !*.py
 # Or directories
