@@ -1,0 +1,10 @@
+.vscode/
+*.exe
+# Ignore Everything
+*
+
+# But not .py
+!*.py
+# Or directories
+!*/
+!.gitignore
