@@ -10,3 +10,5 @@
 # Or directories
 !*/
 !.gitignore
+!*.md
+*/*/.ipynb_checkpoints
